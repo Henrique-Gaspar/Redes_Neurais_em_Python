@@ -8,3 +8,5 @@
 * [CIFAR10 database](https://github.com/Henrique-Gaspar/Redes_Neurais_em_Python/blob/main/Rede_Neural_CIFAR_10.ipynb)
 * [Neural network to predict stock market](https://github.com/Henrique-Gaspar/Redes_Neurais_em_Python/blob/main/Rede_Neural_para_predi%C3%A7%C3%A3o_do_pre%C3%A7o_de_fechamento_CCRO3.ipynb)
 * [Predict house prices](https://github.com/Henrique-Gaspar/Redes_Neurais_em_Python/blob/main/modelo_casas.ipynb)
+* [Predict video-game sales](https://github.com/Henrique-Gaspar/Redes_Neurais_em_Python/blob/main/rede_neural_games.ipynb)
+
